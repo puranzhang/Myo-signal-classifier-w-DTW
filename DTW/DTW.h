@@ -1,5 +1,5 @@
 //CS240_proj3
-//Puran Zhang
+//Ningxi, Puran, Ryan
 
 #ifndef __DTW_H__
 #define __DTW_H__
