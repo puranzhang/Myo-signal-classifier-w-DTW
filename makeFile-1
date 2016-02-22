@@ -1,0 +1,2 @@
+proj3: main.cpp main.h mainwindow.cpp mainwindow.h signal.cpp signal.h DTW.cpp DTW.h
+	g++ -g  -o proj3 main.cpp mainwindow.cpp signal.cpp dtw.cpp 
